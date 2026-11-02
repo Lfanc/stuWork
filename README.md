@@ -35,5 +35,3 @@ stuWork/
 cd HW1
 python 验证脚本_verify_hw1.py
 ```
-
-- `.workbuddy/` 为本地工作数据（记忆、缓存），已写入 `.gitignore`，不纳入版本管理。
